@@ -1,2 +1,24 @@
-# terraria-api-frontend
-Projeto final da matéria desenvolvimento de sistemas web 3,trata-se de uma API do jogo terraria desenvolvida com Vue
+# terrariaapi
+
+## Project setup
+```
+yarn install
+```
+
+### Compiles and hot-reloads for development
+```
+yarn serve
+```
+
+### Compiles and minifies for production
+```
+yarn build
+```
+
+### Lints and fixes files
+```
+yarn lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
